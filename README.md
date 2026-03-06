@@ -25,7 +25,11 @@ This repository contains the code and data for "Multimodal hypergraph representa
 Author: Zheng Zhang  
 Maintainer: Zheng Zhang  
 Mail: m15629585255@163.com  
-Date: 2024-9-10  
+
+Corresponding author:  Xian-gan Chen
+Mail:  chenxg@mail.scuec.edu.cn
+
+Date: 2026-3-6  
 School of Biomedical Engineering, South-Central Minzu University, China  
 
 
